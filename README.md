@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Levi Morrison
+I'm currently in my 1st year at Wright State University for a degree in Information Technology & Cybersecurity
+
+# Projects:
+1. I have previously worked on a dungeon crawler game
+2. I have previously worked on a word spelling game
+
 
 <!--
 **LeviAMorrison/LeviAMorrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
