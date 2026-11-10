@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Levi Morrison
-I'm currently in my first year at Wright State University for a degree in Information Technology & Cybersecurity
+I'm currently in my second year at Wright State University for a degree in Information Technology & Cybersecurity
 
 # Projects:
 1. I have previously worked on a dungeon crawler game
